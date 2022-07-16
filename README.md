@@ -1,5 +1,4 @@
 # Object-Oriented
-Design Patterns Code Examples (Tasarım Kalıpları Kod Örnekleri)
 
 1) Abstraction (Soyutlama)
 2) İnterface (Arayüz)
